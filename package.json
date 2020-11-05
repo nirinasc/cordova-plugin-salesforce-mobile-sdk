@@ -1,0 +1,19 @@
+{
+    "name": "cordova-plugin-salesforce-mobile-sdk",
+    "version": "1.0.0",
+    "description": "Salesforce Mobile SDK Cordova Plugin Repository",
+    "keywords": [ "mobilesdk", "android", "ios", "cordova", "salesforce", "mobile", "sdk" ],
+    "homepage": "https://github.com/nirinasc/cordova-plugin-salesforce-mobile-sdk",
+    "bugs": "https://github.com/nirinasc/cordova-plugin-salesforce-mobile-sdk/issues",
+    "licenses" : [
+        { "type": "Salesforce.com Mobile SDK License", "url": "https://github.com/nirinasc/cordova-plugin-salesforce-mobile-sdk/blob/master/LICENSE.md" }
+    ],
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/nirinasc/cordova-plugin-salesforce-mobile-sdk.git"
+    },
+    "author": { "name": "Nirina Razafimahafaly", "email": "nirina.razafimahafaly@sc-mauritius.com" },
+    "contributors": [
+        { "name": "Dinitri Ragoo", "email": "dinitri.ragoo@sc-mauritius.com" }
+    ]
+}
