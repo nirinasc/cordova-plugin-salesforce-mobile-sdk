@@ -52,8 +52,8 @@ if (androidExePath === null) {
     process.exit(2);
 }
 
-var pluginRoot = path.join('plugins', 'com.salesforce');
-var libProjectRoot = path.join('plugins', 'com.salesforce', 'src', 'android', 'libs');
+var pluginRoot = path.join('plugins', 'cordova-plugin-salesforce-mobile-sdk');
+var libProjectRoot = path.join('plugins', 'cordova-plugin-salesforce-mobile-sdk', 'src', 'android', 'libs');
 var appProjectRoot = path.join('platforms', 'android');
 
 console.log('Moving Salesforce libraries to the correct location');
